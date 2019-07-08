@@ -1,0 +1,7 @@
+For Blood stock problem run:
+blood_bank.py
+The files node.py and Graph.py must be in the same folder.
+
+For Text Justification:
+The text file sample_text must be in the same folder as text_justification.py
+run text_justification.py and the justified text will be printed in the console.
